@@ -1,0 +1,55 @@
+.main-section {
+  font-size: 20px;
+}
+
+
+
+p#basic {
+  background-color: white;
+  font-size: 20px;
+}
+
+#basicul {
+  font-size: 20px;
+}
+
+p {
+  background-color: grey;
+  font-size: 18px;
+ 
+}
+
+code {
+  color: blue;
+}
+
+.code {
+  padding: 40px;
+  font-size: 22px;
+}
+
+#navbar {
+  display: block;
+  position: fixed;
+  font-size: 26px;
+  padding: 10px 10px;
+}
+
+#navbar ul {
+   list-style-type: none;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+#main-doc {
+  padding-left: 375px;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
